@@ -36,7 +36,7 @@
 <!DOCTYPE html>
 <html>
 <!-- Este é um teste para commit -->
-<!-- Este é um teste para commit 2 --> 
+<!-- Alterei --> 
   <head>
     <title>Formuláruo de cadastro</title>
     <meta charset="UTF-8">
